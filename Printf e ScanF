@@ -1,0 +1,12 @@
+#include <stdio.h>	
+
+
+int main()  {
+	
+	float num1;
+
+	printf("digite um numero: \n");		
+	scanf("%f" , &num1);
+	printf("%.20f",num1);  //  20f Faz imprimir o numero informado com 20 casas decimais // 
+	
+	}
