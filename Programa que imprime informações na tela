@@ -1,0 +1,15 @@
+#include <stdio.h>	
+#include <stdio.h>
+
+int main()  {
+	
+	printf ("meu primeiro programa em C\n" );
+	
+	printf("na aula de sabado\n\n\n");	
+	
+	printf ("Dia\n");
+	
+	system ("pause");
+	return 0;
+		
+}
